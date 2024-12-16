@@ -25,7 +25,7 @@ User-friendly terminal-based interaction.
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/prxxchi/Readify/tree/main>
 2. Build the project:
   ```bash
   g++ -o LibrarySystem main.cpp book.cpp database.cpp utils.cpp
