@@ -3,7 +3,7 @@
 
 ## Overview
 A simple Library Management System built using C++ to showcase DSA concepts and database management techniques.
-To create a project that increases your chances of being hired as a fresher software engineer, we'll develop a Library Management System using C++ that implements Data Structures and Algorithms (DSA) concepts and Database Management principles. Here's a detailed breakdown of the project:
+To create  Readify using C++, which implements data structures and algorithms (DSA) concepts and database management principles. Here's a detailed breakdown of the project:
 
 ## Key Features
 ## DSA Concepts:
